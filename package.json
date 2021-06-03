@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve --o",
     "build": "ng build",
+    "deploy": "ng deploy --base-href=https://fakynno.github.io/bootcamp-dio-sntdr",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
